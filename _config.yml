@@ -27,6 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Candidate doing Economic History, Urban, and Economic Geography"
   location         : "Toronto"
+  location_url     : https://readtheplaque.com/plaque/the-toronto-recursive-history-project#gsc.tab=0
   employer         : "University of Toronto"
   uri              : # URL
   email            : "devin.bisskydziadyk@mail.utoronto.ca" 
