@@ -80,6 +80,8 @@ author:
 publication_category:
   working:
     title: 'Working Papers'  
+  works-in-progress:
+    title: 'Works in Progress'  
   resting:
     title: 'Resting'   
   non-econ:
