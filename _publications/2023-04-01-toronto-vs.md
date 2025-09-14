@@ -1,7 +1,7 @@
 ---
 title: "Toronto vs Everybody: The Eﬀect of Property Taxes on Business Establishments"
 collection: publications
-category: resting
+category: works-in-progress
 #permalink: /publication/2023-04-01-toronto-vs
 excerpt: 'Business property taxes are a significant revenue source for municipalities, but what is their impact on local business establishments? Utilizing a change in provincial policy which forced the city of Toronto to lower business property tax rates, I examine the eﬀect of business property taxes on business activity. I estimate that the elasticity of establishment employment with respect to the property tax rate is less than one, although the results are imprecise. I find larger elasticities for establishments utilizing industrial property versus commercial property, suggesting that industrial establishments are more sensitive to business property taxes. Contrasting with the previous literature I conclude that the impact of establishments from business property taxes can be minimized by maintaining updated property assessments and excluding fixed capital from the property assessment base.'
 date: 2023-04-01

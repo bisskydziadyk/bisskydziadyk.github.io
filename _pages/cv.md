@@ -16,6 +16,7 @@ redirect_from:
   <iframe 
     src="/files/Devin_Bissky_Dziadyk_CV.pdf"
     style="width: 100%; height: 600px; border: none;"
+    scrolling="yes"
     allowfullscreen>
   </iframe>
 </div>
